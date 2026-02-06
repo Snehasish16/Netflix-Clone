@@ -11,6 +11,11 @@ The goal of this project was to strengthen my understanding of:
 -HTML page structure
 -CSS layouts and positioning
 
+Project Preview:
+![page 1](./images/netflix%20page1.png)
+![page 2](./images/netflix%20page2.png)
+![page 3](./images/netflix%20page3.png)
+![page 4](./images/netflix%20page4.png)
 
 Features
 -Netflix-style hero section with background overlay
