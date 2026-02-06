@@ -100,6 +100,9 @@ nav .lang-button {
     color: white;
     width: 50vw;
     height: 20vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     text-align: center;
     position: absolute;
     top: 32vh;
@@ -195,7 +198,7 @@ nav .lang-button {
     justify-content: center;
     justify-content: space-between;
     margin-top: 8vh;
-    margin-left: 7vw;
+    padding-left: 7vw;
 }
 .box {
     height: 38vh;
@@ -204,7 +207,7 @@ nav .lang-button {
     transition: all 0.2s linear 0s;
 }
 .box img {
-    width: 11em;
+    width: 12.2vw;
     border-radius: 0.5vw;
     position: relative;
     top: -19vh;
@@ -228,7 +231,7 @@ nav .lang-button {
 }
 .more-reason-to-join {
     color: white;
-    margin-left: 7.5vw;
+    padding-left: 7.5vw;
 }
 .more-reason-to-join h2 {
     margin-bottom: 0.5em;
@@ -241,8 +244,9 @@ nav .lang-button {
 }
 .reason-card {
     padding: 1em;
-    width: 18em;
+    width:20vw;
     border-radius: 0.5em;
+    position: relative;
     background-image: linear-gradient(120deg, #192144, #230e18);
 }
 .reason-card > h2 {
@@ -255,7 +259,7 @@ nav .lang-button {
 }
 .faq {
     margin-top: 8vh;
-    margin-left: 7vw;
+    padding-left: 7vw;
     color: white;
 }
 .faq-box-container {
@@ -273,6 +277,10 @@ nav .lang-button {
     align-items: center;
     padding: 0em 2em;
     cursor: pointer;
+}
+.faq-box .fa-plus{
+    font-size: 1.8em;
+    font-weight: 50;
 }
 .faq-box:hover{
     background-color: #414141;
