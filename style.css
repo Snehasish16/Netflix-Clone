@@ -70,6 +70,7 @@ nav .lang-button {
     color: white;
     all: unset;
     cursor: pointer;
+    width: 5em;
 }
 .lang-button select option {
     color: black;
