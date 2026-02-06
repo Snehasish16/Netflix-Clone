@@ -23,7 +23,6 @@
 .background {
     width: 100vw;
     height: 100vh;
-    /* background-color: rgba(0, 0, 0, 0.726); */
     background-image: linear-gradient(
         180deg,
         rgba(0, 0, 0, 0.862),
@@ -35,7 +34,6 @@
 nav {
     width: 100vw;
     height: 10vh;
-    /* border: 2px solid black; */
     align-items: center;
     padding: 5px;
     display: flex;
@@ -156,7 +154,6 @@ nav .lang-button {
 .curved-section-parent {
     height: 150px;
     width: 100vw;
-    /* border: 2px solid white; */
     position: relative;
     top: 79vh;
     overflow: hidden;
@@ -168,7 +165,7 @@ nav .lang-button {
         to top,
         #000 50%,
         #1d284d 120%
-    ); /* dark bottom, blue top */
+    ); 
     border-top-left-radius: 100% 150px;
     border-top-right-radius: 100% 150px;
     box-shadow: inset 1 40px 60px -20px #000;
@@ -192,7 +189,6 @@ nav .lang-button {
     color: white;
     height: 40vh;
     width: 80vw;
-    /* border: 2px solid white; */
     display: flex;
     gap: 2em;
     justify-content: center;
@@ -203,7 +199,6 @@ nav .lang-button {
 .box {
     height: 38vh;
     width: 13vw;
-    /* border: 2px solid white; */
     position: relative;
     transition: all 0.2s linear 0s;
 }
@@ -240,14 +235,12 @@ nav .lang-button {
 .reason-card-parent {
     width: 90vw;
     height: 35vh;
-    /* border: 2px solid white; */
     display: flex;
     gap: 1em;
 }
 .reason-card {
     padding: 1em;
     width: 18em;
-    /* border: 2px solid white; */
     border-radius: 0.5em;
     background-image: linear-gradient(120deg, #192144, #230e18);
 }
