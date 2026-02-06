@@ -139,6 +139,9 @@ nav .lang-button {
     border-radius: 0.2em;
     padding-left: 1em;
 }
+.input input[placeholder]{
+    color: white;
+}
 .email-input button {
     width: 15vw;
     border: none;
@@ -275,6 +278,10 @@ nav .lang-button {
     justify-content: space-between;
     align-items: center;
     padding: 0em 2em;
+    cursor: pointer;
+}
+.faq-box:hover{
+    background-color: #414141;
 }
 .faq-box p {
     font-size: 1.2em;
