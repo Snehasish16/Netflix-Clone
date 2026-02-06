@@ -4,20 +4,20 @@ Netflix landing page clone using HTML and CSS.
 A Netflix landing page clone built using HTML5 and CSS3, replicating the look of Netflix’s official homepage.
 This project focuses on UI design, layout structuring.
 
-Project Overview
+## Project Overview
 
 This Netflix Clone is a frontend-only project that recreates the visual design of Netflix India’s homepage.
 The goal of this project was to strengthen my understanding of:
 -HTML page structure
 -CSS layouts and positioning
 
-Project Preview:
+## Project Preview:
 ![page 1](./images/netflix%20page1.png)
 ![page 2](./images/netflix%20page2.png)
 ![page 3](./images/netflix%20page3.png)
 ![page 4](./images/netflix%20page4.png)
 
-Features
+## Features
 -Netflix-style hero section with background overlay
 
 -Navigation bar with:
@@ -34,7 +34,7 @@ Features
 -Footer with multiple link sections
 
 
-Tech Stack
+## Tech Stack
     HTML5
     CSS3
     Font Awesome (icons)
